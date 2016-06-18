@@ -1,0 +1,45 @@
+[{
+  "id": 3,
+  "file": null,
+  "name": "01 Too Close hello.mp3",
+  "artistName": "Ari Pace",
+  "url": null,
+  "studioUrl": null,
+  "coverImageUrl": null,
+  "trackType": {
+    "id": 0,
+    "name": "Original"
+  },
+  "contentType": "audio/mp3",
+  "numberOfPlays": 1,
+  "numberOfDownloads": 0,
+  "whenCreated": "2016-06-15 08:17:26",
+  "whenUpdated": "2016-06-15 08:17:26",
+  "whenDeleted": null,
+  "notes": null,
+  "sampleRate": 44100,
+  "length": 25670,
+  "parent": null
+}, {
+  "id": 2,
+  "file": null,
+  "name": "01 Too Close.mp3",
+  "artistName": "Ari Pace",
+  "url": null,
+  "studioUrl": null,
+  "coverImageUrl": null,
+  "trackType": {
+    "id": 0,
+    "name": "Original"
+  },
+  "contentType": "audio/mp3",
+  "numberOfPlays": 1,
+  "numberOfDownloads": 0,
+  "whenCreated": "2016-06-15 04:38:45",
+  "whenUpdated": "2016-06-15 04:38:45",
+  "whenDeleted": null,
+  "notes": null,
+  "sampleRate": 44100,
+  "length": 25670,
+  "parent": null
+}]
